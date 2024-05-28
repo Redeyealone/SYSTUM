@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from SYSTUM import LOGGER, app, userbot
-from SYSTUM.core.call import KING
+#from SYSTUM.core.call import KING
 from SYSTUM.misc import sudo
 from SYSTUM.plugins import ALL_MODULES
 from SYSTUM.utils.database import get_banned_users, get_gbanned
